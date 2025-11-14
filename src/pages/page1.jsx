@@ -27,7 +27,7 @@ const Page1 = () => {
   return (
         <div onMouseMove={(e)=>{mouceMoveing(e)}} 
          className="h-screen w-screen px-3  py-3 bg-white">  
-        <div id="page1-in" className="relative shadow-xl px-6 py-28 shadow-gray-800 h-full w-full rounded-[50px] bg-cover bg-[url(/src/assets/bg3.jpg)]">
+        <div id="page1-in" className="relative shadow-xl px-6 py-28 shadow-gray-800 h-full w-full rounded-[50px] bg-cover bg-[url(/src/assets/port.png)]">
         <img className=" h-13    absolute top-14 right-17 
         " src="https://static.wixstatic.com/media/f1c650_e7181873180d410ba6848efd4e8cc5ef~mv2.png/v1/fill/w_66,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20WHITE_edited.png" alt="" />
         
